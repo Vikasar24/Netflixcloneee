@@ -19,13 +19,19 @@ const Favorites = () => {
   return (
     <div className="container mt-4">
       <h2>❤️ Your Favorite Movies</h2>
+
       {favorites.length === 0 ? (
-        <p className="text-muted">No favorites added yet.</p>
+        <div
+          className="d-flex justify-content-center align-items-center"
+          style={{ minHeight: '100vh' }}
+        >
+          <p className="text-muted fs-5">You haven't added any favorite movies yet.</p>
+        </div>
       ) : (
         <div className="row">
           {favorites.map(movie => (
             <div className="col-md-3 mb-3" key={movie.id}>
-              <div 
+              <div
                 className="card h-100 shadow-sm"
                 style={{ cursor: 'pointer' }}
                 onClick={() => navigate(`/movie/${movie.id}`)}
