@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import MovieCard from '../components/MovieCard';
 import moviesData from '../utils/movies.json';
 import '../styles/Home.css';
-
 import banner from '../assets/banner.jpg';
 import Hit from '../assets/Hit.jpg';
 import Paat from '../assets/Paat.jpeg';
