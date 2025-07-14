@@ -1,0 +1,165 @@
+
+
+[
+  {
+    "id": 1,
+    "title": "RRR",
+    "genre": "Action",
+    "rating": "8.2",
+    "releaseDate": "2022",
+    "image": "/images/rrr.jpeg",
+    "description": "A tale of two legendary revolutionaries and their journey away from home.",
+    "section": "main"
+  },
+  {
+    "id": 2,
+    "title": "Pathaan",
+    "genre": "Action",
+    "rating": "6.5",
+    "releaseDate": "2023",
+    "image": "/images/Paathan.jpg",
+    "description": "An Indian agent races to stop a bio-terrorist threat.",
+    "section": "main"
+  },
+  {
+    "id": 3,
+    "title": "Dangal",
+    "genre": "Drama",
+    "rating": "8.3",
+    "releaseDate": "2016",
+    "image": "https://image.tmdb.org/t/p/w500/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+    "description": "A father trains his daughters to become world-class wrestlers.",
+    "section": "main"
+  },
+  {
+    "id": 4,
+    "title": "Jawan",
+    "genre": "Action",
+    "rating": "7.9",
+    "releaseDate": "2023",
+    "image": "/images/iawan.jpeg",
+    "description": "A man driven by personal vengeance fights corruption.",
+    "section": "main"
+  },
+  {
+    "id": 5,
+    "title": "Drishyam 2",
+    "genre": "Drama",
+    "rating": "7.8",
+    "releaseDate": "2022",
+    "image": "/images/dri.jpeg",
+    "description": "A gripping sequel to the story of a man who will go to any length for his family.",
+    "section": "main"
+  },
+  {
+    "id": 6,
+    "title": "HIT: The 2nd Case",
+    "genre": "Action",
+    "rating": "7.1",
+    "releaseDate": "2022",
+    "image": "/images/Hit3.jpeg",
+    "description": "A homicide detective tackles a new gruesome serial case.",
+    "section": "main"
+  },
+  {
+    "id": 7,
+    "title": "Sacred Games",
+    "genre": "Drama",
+    "rating": "8.6",
+    "releaseDate": "2018",
+    "image": "/images/sca.jpeg",
+    "description": "A troubled cop discovers a deeper conspiracy in Mumbai's criminal underworld.",
+    "section": "other"
+  },
+  {
+    "id": 8,
+    "title": "Paatal Lok",
+    "genre": "Drama",
+    "rating": "7.8",
+    "releaseDate": "2020",
+    "image": "/images/Paatal-lok.jpg",
+    "description": "An honest cop finds himself entangled in a dark web of politics and crime.",
+    "section": "other"
+  },
+  {
+    "id": 9,
+    "title": "Mirzapur",
+    "genre": "Action",
+    "rating": "8.5",
+    "releaseDate": "2018",
+    "image": "/images/mir.jpg",
+    "description": "Power, politics and bloodshed in the town of Mirzapur.",
+    "section": "other"
+  },
+  {
+    "id": 10,
+    "title": "The Family Man",
+    "genre": "Action",
+    "rating": "8.7",
+    "releaseDate": "2019",
+    "image": "/images/family.jpg",
+    "description": "An undercover agent juggles between family and national duty.",
+    "section": "other"
+  },
+  {
+    "id": 11,
+    "title": "Scam 1992",
+    "genre": "Drama",
+    "rating": "9.4",
+    "releaseDate": "2020",
+    "image": "/images/scam.jpg",
+    "description": "The rise and fall of stockbroker Harshad Mehta.",
+    "section": "other"
+  },
+  {
+    "id": 12,
+    "title": "Asur",
+    "genre": "Drama",
+    "rating": "8.5",
+    "releaseDate": "2020",
+    "image": "/images/asur.jpg",
+    "description": "A psychological thriller blending mythology and science.",
+    "section": "other"
+  },
+  {
+  "id": 13,
+  "title": "Hera Pheri",
+  "genre": "Comedy",
+  "rating": "8.2",
+  "releaseDate": "2000",
+  "image": "/images/hera_pheri.jpeg",
+  "description": "Three unemployed men find the answer to all their money problems when they receive a call from a kidnapper.",
+  "section": "main"
+},
+{
+  "id": 14,
+  "title": "Chupke Chupke",
+  "genre": "Comedy",
+  "rating": "8.3",
+  "releaseDate": "1975",
+  "image": "/images/chupke_chupke.jpg",
+  "description": "A newly-wedded husband plays a practical joke on his in-laws with help from his wife and friends.",
+  "section": "main"
+},
+{
+  "id": 15,
+  "title": "Andaz Apna Apna",
+  "genre": "Comedy",
+  "rating": "8.1",
+  "releaseDate": "1994",
+  "image": "/images/andaz_apna_apna.jpg",
+  "description": "Two slackers compete to win the heart of a wealthy heiress, but things go hilariously wrong.",
+  "section": "main"
+},
+{
+  "id": 16,
+  "title": "Bhool Bhulaiyaa",
+  "genre": "Comedy",
+  "rating": "7.4",
+  "releaseDate": "2007",
+  "image": "/images/bhool_bhulaiyaa.jpg",
+  "description": "An NRI and his wife arrive in India and decide to stay in his ancestral home, despite warnings about spirits.",
+  "section": "main"
+}
+
+]

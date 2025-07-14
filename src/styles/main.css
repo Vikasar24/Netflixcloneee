@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: background-color 0.4s ease, color 0.4s ease, background-image 0.5s ease;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+/* .light {
+  background-image: url('/background.png');
+  color: #000;
+}
+
+/* Dark mode with cinematic mood background */
+.dark {
+  background-image: url('/images/black.jpeg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+  background-color: #000000;
+}
+
+
+
+.movie-card {
+  transition: transform 0.4s ease;
+  transform-style: preserve-3d;
+}
+
+.movie-card:hover {
+  transform: rotateY(10deg) scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+
+.loader-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader {
+  width: 80px;
+  height: 80px;
+  border: 8px solid rgba(255, 255, 255, 0.2);
+  border-top-color: #e50914;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
