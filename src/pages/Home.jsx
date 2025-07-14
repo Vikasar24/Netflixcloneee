@@ -3,7 +3,6 @@ import MovieCard from '../components/MovieCard';
 import moviesData from '../utils/movies.json';
 import '../styles/Home.css';
 
-// Import carousel images from assets
 import banner from '../assets/banner.jpg';
 import Hit from '../assets/Hit.jpg';
 import Paat from '../assets/Paat.jpeg';
@@ -60,7 +59,7 @@ const Home = () => {
 
   return (
     <>
-      {/* Carousel Section */}
+  
       <div
         id="heroCarousel"
         className="carousel slide carousel-fade mb-5"
@@ -95,7 +94,7 @@ const Home = () => {
           ))}
         </div>
 
-        {/* Carousel Controls */}
+    
         <button
           className="carousel-control-prev"
           type="button"
@@ -114,7 +113,6 @@ const Home = () => {
         </button>
       </div>
 
-      {/* Main Movies Section */}
       <div className="container mt-4">
         <h2>🎞 Latest Movies</h2>
         <div
@@ -151,7 +149,7 @@ const Home = () => {
         </div>
       </div>
 
-      {/* Other Movies Section */}
+     
       <div className="container mt-5">
         <h2>📺 Other Movies & Series</h2>
         <div className="row">
