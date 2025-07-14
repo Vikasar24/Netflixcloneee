@@ -7,6 +7,10 @@ import Navbar from './components/Navbar';
 import { ThemeProvider } from './context/ThemeContext';
 import { useEffect, useState } from 'react';
 import Loader from './components/Loader';
+import Footer from './components/Footer';
+
+
+
 
 const App = () => {
   const [loading, setLoading] = useState(true);
@@ -28,6 +32,7 @@ const App = () => {
         <Route path="/movie/:id" element={<MovieDetails />} />
         <Route path="/favorites" element={<Favorites />} />
       </Routes>
+      <Footer />
     </Router>
   </ThemeProvider>
 ); };
