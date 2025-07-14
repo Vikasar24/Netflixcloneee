@@ -5,7 +5,7 @@ import '../styles/Home.css';
 import banner from '../assets/banner.jpg';
 import Hit from '../assets/Hit.jpg';
 import Paat from '../assets/Paat.jpeg';
-import PaatalLok from '../assets/paatal_lok.jpg';
+import PaatalLok from '../assets/Paatal_lok.jpg';
 
 const Home = () => {
   const [genre, setGenre] = useState('All');
